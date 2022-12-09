@@ -9,7 +9,7 @@
 			"name": "New Folder",
 			"item": [
 				{
-					"name": "New Request",
+					"name": "1",
 					"id": "a79a4fb9-6e26-4d2e-a58e-7e0857fc9e55",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
