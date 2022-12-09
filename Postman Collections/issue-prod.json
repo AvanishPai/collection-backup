@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "New Folder",
+			"name": "New Folder (mod)",
 			"item": [
 				{
 					"name": "1",
@@ -48,14 +48,15 @@
 			"id": "165a0469-90f0-4a45-9279-9ca98908fa50"
 		},
 		{
-			"name": "New Request",
+			"name": "New Request (mod)",
 			"id": "44c7fd90-59e2-46e9-b590-f368758bcb81",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": ""
 			},
 			"response": []
 		}
