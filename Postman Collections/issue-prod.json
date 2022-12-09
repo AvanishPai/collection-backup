@@ -45,7 +45,29 @@
 					"response": []
 				}
 			],
-			"id": "165a0469-90f0-4a45-9279-9ca98908fa50"
+			"id": "165a0469-90f0-4a45-9279-9ca98908fa50",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "b167d9bb-7ecb-4f6e-8f20-0afb5c04297c",
+						"type": "text/javascript",
+						"exec": [
+							"asd"
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "d1bab028-fd6c-491c-840f-bc619d17407e",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
 		},
 		{
 			"name": "New Request (mod)",
