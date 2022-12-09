@@ -75,6 +75,11 @@
 			"id": "deca4e49-9178-472f-8bd2-3c1449d37c06"
 		},
 		{
+			"name": "New Folder",
+			"item": [],
+			"id": "5f85d332-fd23-4220-8b0a-104855f3173b"
+		},
+		{
 			"name": "New Request (mod)",
 			"id": "44c7fd90-59e2-46e9-b590-f368758bcb81",
 			"protocolProfileBehavior": {
