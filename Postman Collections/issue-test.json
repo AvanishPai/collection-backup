@@ -45,7 +45,29 @@
 					"response": []
 				}
 			],
-			"id": "74f6c37a-2ec9-4d82-a370-7a510b649cda"
+			"id": "74f6c37a-2ec9-4d82-a370-7a510b649cda",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "0bd78385-5820-4dc3-92af-be848aed4efa",
+						"type": "text/javascript",
+						"exec": [
+							"asd"
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "57e6314c-819d-43bd-a671-1516da5fbb03",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
 		},
 		{
 			"name": "External Request modified",
