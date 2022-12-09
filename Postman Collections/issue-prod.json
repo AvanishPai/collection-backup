@@ -9,11 +9,6 @@
 			"name": "New Folder (mod)",
 			"item": [
 				{
-					"name": "New Folder",
-					"item": [],
-					"id": "082c1ed8-24aa-4f0c-80cd-fb383a3ba874"
-				},
-				{
 					"name": "1",
 					"id": "a79a4fb9-6e26-4d2e-a58e-7e0857fc9e55",
 					"protocolProfileBehavior": {
