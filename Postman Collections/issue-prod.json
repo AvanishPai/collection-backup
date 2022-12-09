@@ -50,17 +50,17 @@
 				{
 					"listen": "prerequest",
 					"script": {
-						"id": "b167d9bb-7ecb-4f6e-8f20-0afb5c04297c",
+						"id": "43a2a7eb-a004-49f7-b0f0-7bcaf67436ee",
 						"type": "text/javascript",
 						"exec": [
-							"asd"
+							"asdasd"
 						]
 					}
 				},
 				{
 					"listen": "test",
 					"script": {
-						"id": "d1bab028-fd6c-491c-840f-bc619d17407e",
+						"id": "6c860ca2-7871-45f8-b545-c4a8ff96db53",
 						"type": "text/javascript",
 						"exec": [
 							""
